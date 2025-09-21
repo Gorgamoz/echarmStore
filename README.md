@@ -1,2 +1,2 @@
 # echarmStore
-E-commerce platform for echarm.id
+MERN stack ecommerce store for keychains and accessories
